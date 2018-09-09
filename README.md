@@ -9,6 +9,7 @@ const double patty$ = 0.75; // patty cost
 const double bacon$ = 0.50; // bacon cost
 const double pickle$ = 0.25; // pickle cost
 const double bun$ = 0.50; // bun cost
+
 long hundreds_place,tenths,ones_place; // number of each item
 // hundreds_place = #patties
 // tenths = #bacon
